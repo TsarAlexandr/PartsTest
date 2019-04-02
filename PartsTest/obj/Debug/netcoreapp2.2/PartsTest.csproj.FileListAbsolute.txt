@@ -1,0 +1,96 @@
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.deps.json
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.runtimeconfig.json
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.runtimeconfig.dev.json
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.dll
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.pdb
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.Views.dll
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.Views.pdb
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\Module.dll
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\Module.pdb
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.csprojAssemblyReference.cache
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.csproj.CoreCompileInputs.cache
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorAssemblyInfo.cache
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorAssemblyInfo.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.AssemblyInfoInputs.cache
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.AssemblyInfo.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.TagHelpers.input.cache
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.TagHelpers.output.cache
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorCoreGenerate.cache
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorTargetAssemblyInfo.cache
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorTargetAssemblyInfo.cs
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.Views.pdb
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.csproj.CopyComplete
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.dll
+C:\Users\Coralteq user\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.pdb
+E:\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.deps.json
+E:\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.runtimeconfig.json
+E:\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.runtimeconfig.dev.json
+E:\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.dll
+E:\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.pdb
+E:\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.Views.dll
+E:\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.Views.pdb
+E:\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\Module.dll
+E:\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\Module.pdb
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.csprojAssemblyReference.cache
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.csproj.CoreCompileInputs.cache
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorAssemblyInfo.cache
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorAssemblyInfo.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.AssemblyInfoInputs.cache
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.AssemblyInfo.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.TagHelpers.input.cache
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.TagHelpers.output.cache
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorCoreGenerate.cache
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorTargetAssemblyInfo.cache
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorTargetAssemblyInfo.cs
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.Views.pdb
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.csproj.CopyComplete
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.dll
+E:\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.pdb
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.deps.json
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.runtimeconfig.json
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.runtimeconfig.dev.json
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.dll
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.pdb
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.Views.dll
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\PartsTest.Views.pdb
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\Module.dll
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\bin\Debug\netcoreapp2.2\Module.pdb
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.csprojAssemblyReference.cache
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorAssemblyInfo.cache
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorAssemblyInfo.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.AssemblyInfoInputs.cache
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.AssemblyInfo.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.TagHelpers.input.cache
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.TagHelpers.output.cache
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorCoreGenerate.cache
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorTargetAssemblyInfo.cache
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.RazorTargetAssemblyInfo.cs
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.Views.pdb
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.csproj.CopyComplete
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.dll
+C:\Users\User-PC\source\repos\PartsTest\PartsTest\obj\Debug\netcoreapp2.2\PartsTest.pdb

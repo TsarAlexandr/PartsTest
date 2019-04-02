@@ -1,0 +1,27 @@
+C:\Users\Coralteq user\source\repos\PartsTest\Module\bin\Debug\netstandard2.0\Module.deps.json
+C:\Users\Coralteq user\source\repos\PartsTest\Module\bin\Debug\netstandard2.0\Module.dll
+C:\Users\Coralteq user\source\repos\PartsTest\Module\bin\Debug\netstandard2.0\Module.pdb
+C:\Users\Coralteq user\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.csproj.CoreCompileInputs.cache
+C:\Users\Coralteq user\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.AssemblyInfoInputs.cache
+C:\Users\Coralteq user\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.AssemblyInfo.cs
+C:\Users\Coralteq user\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.dll
+C:\Users\Coralteq user\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.pdb
+C:\Users\Coralteq user\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.csprojAssemblyReference.cache
+E:\PartsTest\Module\bin\Debug\netstandard2.0\Module.deps.json
+E:\PartsTest\Module\bin\Debug\netstandard2.0\Module.dll
+E:\PartsTest\Module\bin\Debug\netstandard2.0\Module.pdb
+E:\PartsTest\Module\obj\Debug\netstandard2.0\Module.csproj.CoreCompileInputs.cache
+E:\PartsTest\Module\obj\Debug\netstandard2.0\Module.AssemblyInfoInputs.cache
+E:\PartsTest\Module\obj\Debug\netstandard2.0\Module.AssemblyInfo.cs
+E:\PartsTest\Module\obj\Debug\netstandard2.0\Module.dll
+E:\PartsTest\Module\obj\Debug\netstandard2.0\Module.pdb
+E:\PartsTest\Module\obj\Debug\netstandard2.0\Module.csprojAssemblyReference.cache
+C:\Users\User-PC\source\repos\PartsTest\Module\bin\Debug\netstandard2.0\Module.deps.json
+C:\Users\User-PC\source\repos\PartsTest\Module\bin\Debug\netstandard2.0\Module.dll
+C:\Users\User-PC\source\repos\PartsTest\Module\bin\Debug\netstandard2.0\Module.pdb
+C:\Users\User-PC\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.csprojAssemblyReference.cache
+C:\Users\User-PC\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.AssemblyInfoInputs.cache
+C:\Users\User-PC\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.AssemblyInfo.cs
+C:\Users\User-PC\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.dll
+C:\Users\User-PC\source\repos\PartsTest\Module\obj\Debug\netstandard2.0\Module.pdb

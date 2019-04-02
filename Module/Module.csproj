@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+	<AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+	<GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <None Remove="Scripts\module.js" />
+    <None Remove="Views\Module\Index.cshtml" />
+    <None Remove="Views\Shared\layoutModule.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Scripts\module.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Views\Module\Index.cshtml" />
+    <EmbeddedResource Include="Views\Shared\layoutModule.cshtml">
+      <TransformOnBuild>true</TransformOnBuild>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+  </ItemGroup>
+
+</Project>
